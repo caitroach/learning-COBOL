@@ -1,2 +1,2 @@
 # learning-COBOL
-I'm learning COBOL and will put some programs here as I go along! I make notes for myself in comments
+This is my directory for learning COBOL! I'll follow tutorials, cite them here, and put notes/documentation in the files. Will eventually put mini projects here, WIP.
